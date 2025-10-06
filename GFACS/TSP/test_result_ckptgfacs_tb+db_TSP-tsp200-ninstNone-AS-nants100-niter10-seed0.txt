@@ -1,0 +1,17 @@
+problem scale: 200
+checkpoint: /common/home/users/n/ni.zhang.2025/gfacs/HBG/GFACS/TSP/gfacs_tb+db_TSP.pt
+number of instances: 128
+device: cuda:0+cpu
+n_ants: 100
+seed: 0
+average inference time: 1.0269983932375908
+T=1, avg. cost 13.624464988708496, avg. diversity 0.7422404885292053
+T=2, avg. cost 13.256200790405273, avg. diversity 0.6926586627960205
+T=3, avg. cost 13.089927673339844, avg. diversity 0.6763361096382141
+T=4, avg. cost 13.005964279174805, avg. diversity 0.6667481064796448
+T=5, avg. cost 12.954992294311523, avg. diversity 0.6601178646087646
+T=6, avg. cost 12.898117065429688, avg. diversity 0.6545861959457397
+T=7, avg. cost 12.851641654968262, avg. diversity 0.650306761264801
+T=8, avg. cost 12.810380935668945, avg. diversity 0.646340548992157
+T=9, avg. cost 12.776050567626953, avg. diversity 0.6434475183486938
+T=10, avg. cost 12.756539344787598, avg. diversity 0.6403696537017822
