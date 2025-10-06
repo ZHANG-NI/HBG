@@ -2,7 +2,7 @@
 
 Our paper is accepted by NeurIPS 2025.
 
-The proposed HBG framework is compatible with existing GFlowNet-based solvers, including [GFACS](https://github.com/ai4co/gfacs/tree/main?tab=readme-ov-file) and [AGFN](https://github.com/ZHANG-NI/AGFN ). All datasets used in our experiments are derived from the([AGFN/data at main · ZHANG-NI/AGFN](https://github.com/ZHANG-NI/AGFN/tree/main/data.
+The proposed HBG framework is compatible with existing GFlowNet-based solvers, including [GFACS](https://github.com/ai4co/gfacs/tree/main?tab=readme-ov-file) and [AGFN](https://github.com/ZHANG-NI/AGFN ). All datasets used in our experiments are derived from the (https://github.com/ZHANG-NI/AGFN/tree/main/data).
 
 #### Training
 
@@ -32,5 +32,6 @@ If you find this codebase useful, please consider citing the paper:
   year={2025}
 }
 ```
+
 
 
