@@ -1,6 +1,6 @@
 # Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems
 
-Our paper is accepted by NeurIPS 2025.
+Our paper *“[Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems](https://arxiv.org/abs/2510.04792)”* has been accepted to NeurIPS 2025.
 
 The proposed HBG framework is compatible with existing GFlowNet-based solvers, including [GFACS](https://github.com/ai4co/gfacs/tree/main?tab=readme-ov-file) and [AGFN](https://github.com/ZHANG-NI/AGFN ). All datasets used in our experiments are derived from (https://github.com/ZHANG-NI/AGFN/tree/main/data).
 
@@ -32,6 +32,7 @@ If you find this codebase useful, please consider citing the paper:
   year={2025}
 }
 ```
+
 
 
 
