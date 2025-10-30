@@ -25,13 +25,14 @@ $N is the nodes of the instances
 If you find this codebase useful, please consider citing the paper:
 
 ```
-@article{zhang2025hybrid,
+@inproceedings{zhang2025hybrid,
   title={Hybrid-Balance GFlowNet for Solving Vehicle Routing Problems},
   author={Zhang, Ni and Cao, Zhiguang},
-  journal={Advances in Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2025}
 }
 ```
+
 
 
 
